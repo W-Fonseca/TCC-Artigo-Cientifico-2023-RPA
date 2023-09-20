@@ -2,7 +2,7 @@
 
 Codigo sobre o artigo cientifico: Automação com Propósito: RPA como Facilitador da Inovação
 
-> [!NOTE]
+> [!]
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]
