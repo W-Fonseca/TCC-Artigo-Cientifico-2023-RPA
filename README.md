@@ -10,7 +10,7 @@ Codigo sobre o artigo cientifico: Automação com Propósito: RPA como Facilitad
 > Os dois arquivo com final **`.py`** devem ter no minimo o python instalado no computador e instalado todas as importações dentro dele.
 
 > [!NOTE]
-> - Para testar o conceito aplicado no artigo cientifico foi criado um programa com interface grafica usando o mesmo código, basta baixar a pasta **`Buid`** em seu computador, então encontraremos o aquivo **`Encontrar_produto_Gui.exe - Atalho`**, ao clicar nele vamos executar o programa feito em cima do artigo **Automação com Propósito**
+>  Agora caso queira <u> testar sem precisar instalar nada </u> foi criado um programa com interface grafica usando o mesmo código, basta baixar a pasta **`Buid`** em seu computador, então encontraremos o aquivo **`Encontrar_produto_Gui.exe - Atalho`**, ao clicar nele vamos executar o programa feito em cima do artigo **Automação com Propósito**
 
 ![image](https://github.com/W-Fonseca/TCC-Artigo-Cientifico-2023-RPA/assets/64553168/4006ed17-a931-4d3a-8de7-c00ee17b95c6)
 
