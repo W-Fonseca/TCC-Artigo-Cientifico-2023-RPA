@@ -12,8 +12,8 @@ Codigo sobre o artigo cientifico: Automação com Propósito: RPA como Facilitad
 > Critical content demanding immediate user attention due to potential risks.
 
 > [!NOTE]
-> O arquivo **`Encontrar_produto.py`** é todo o codigo desenvolvido para o artigo cientifico.
-> Já o arquivo **`Encontrar_produto_Gui.py`** é basicamente o mesmo código mas com interface grafica para iteração humana e facilitar na busca do que deseja, foi com ele que construi a pasta **`buid`** que consite nesse mesmo código mas compilado para executar em qualquer computador.
+> * O arquivo **`Encontrar_produto.py`** é todo o codigo desenvolvido para o artigo cientifico.
+> * Já o arquivo **`Encontrar_produto_Gui.py`** é basicamente o mesmo código mas com interface grafica para iteração humana e facilitar na busca do que deseja, foi com ele que construi a pasta **`buid`** que consite nesse mesmo código mas compilado para executar em qualquer computador.
 
 > [!IMPORTANT]
 > ### OBS.: Os dois arquivo com final **`.py`** devem ter no minimo o python instalado no computador e instalado todas as importações dentro dele.
