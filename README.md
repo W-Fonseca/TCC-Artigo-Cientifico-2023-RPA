@@ -13,6 +13,7 @@ Codigo sobre o artigo cientifico: Automação com Propósito: RPA como Facilitad
 
 ![image](https://github.com/W-Fonseca/TCC-Artigo-Cientifico-2023-RPA/assets/64553168/4006ed17-a931-4d3a-8de7-c00ee17b95c6)
 
-
+Video do Artigo cientifico
+https://youtu.be/1rFSXNjUQ3Y
 
 
